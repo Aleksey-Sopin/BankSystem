@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.exe
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.deps.json
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.json
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.dev.json
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\admin\Desktop\C#\repositiry\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.genruntimeconfig.cache
