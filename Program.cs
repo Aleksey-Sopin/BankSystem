@@ -91,6 +91,7 @@ namespace BankSystem
                     while (true)
                     {                  
                         var usercount = 0;
+                        //Массивы не изменяют свой размер автоматически вот тут valueArray.Lenght всегда будет 0 смотри внимательно на то как ты инициализируешь его
                         for (var i = 0; i < valueArray.Length; i++)
                         {
                             if (i == usercount)
